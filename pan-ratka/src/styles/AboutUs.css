@@ -1,0 +1,9 @@
+/* AboutUs section styles */
+.aboutus-box h3 {
+  font-size: 2.4rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.aboutus-icon {
+  font-size: 4rem;
+}

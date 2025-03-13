@@ -1,0 +1,17 @@
+/* Home section styles */
+.home {
+  position: relative;
+  height: 100rem;
+  background-image: url("./img/1920.jpg");
+  background-size: cover;
+  background-position: center;
+  z-index: 0;
+}
+.home .btn {
+  padding: 1em 2em;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+}
+.home .welcome-text {
+  font-size: 2.2rem;
+}
